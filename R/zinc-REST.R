@@ -1,10 +1,5 @@
-# -*- tab-width:2;indent-tabs-mode:t;show-trailing-whitespace:t;rm-trailing-spaces:t -*-
-# vi: set ts=2 noet:
-
-
-
 #' @export
-zinc_base_url <- function(){"http://zinc15.docking.org"}
+zinc_base_url <- function(){"http://zinc.docking.org"}
 
 ##TODO get post_data to work...
 ##this python works:
